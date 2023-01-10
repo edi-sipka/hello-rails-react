@@ -1,3 +1,3 @@
 class RootController < ApplicationController
-    def index; end
-  end
+  def index; end
+end
